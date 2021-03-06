@@ -8,7 +8,7 @@
 
 🎙 Talks:
 - Wild Talk : Opportunités et carrières dans la Tech - https://rebrand.ly/wild-talk-opportunites-carrieres-tech
-- Three things @ IronHack - https://rebrand.ly/three-things-ironhack-paris
+- Three things @ Ironhack - https://rebrand.ly/three-things-ironhack-paris
 - JavaScript 2020 @ onepoint - https://rebrand.ly/javascript-2020
 
 📚 Workshops:
