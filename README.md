@@ -1,4 +1,4 @@
-### Hi there, I'm Paul - aka [pcailly][website] 👋
+### Hi there, I'm Paul 👋
 
 🎶 Building impactful web experience @ Deezer
 
