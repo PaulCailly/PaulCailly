@@ -21,6 +21,6 @@
 - 3rd place at Techstars Startup Weekend Orleans 2018 - https://rebrand.ly/techstars-startup-weekend-orleans-2018
 
 📌 Links
-LinkedIn - https://www.linkedin.com/in/paulcailly/
-DEV Community - https://dev.to/pcailly 
+- LinkedIn - https://www.linkedin.com/in/paulcailly/
+- DEV Community - https://dev.to/pcailly 
 
