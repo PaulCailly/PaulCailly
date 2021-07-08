@@ -7,6 +7,7 @@
 🙏 Available for Open-source software (OSS) and Tech for Good projects (voluntary)
 
 🎙 Talks:
+- Tech It Easy #1 - https://bit.ly/2T9OkzQ
 - Wild Talk : Opportunités et carrières dans la Tech - https://rebrand.ly/wild-talk-opportunites-carrieres-tech
 - Three things @ Ironhack - https://rebrand.ly/three-things-ironhack-paris
 - JavaScript 2020 @ onepoint - https://rebrand.ly/javascript-2020
