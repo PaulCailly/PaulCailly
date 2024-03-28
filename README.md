@@ -2,9 +2,11 @@
 
 🎶 Building impactful web experience @ Deezer
 
-📚 Teaching web development @ Le Réacteur
-
-🙏 Available for Open-source software (OSS) and Tech for Good projects (voluntary)
+### 🏆 Hackathons
+- Innovation Award at the Google x Mistral GenAI 2024 - https://rebrand.ly/google-mistral-genai
+- 1st place at the React Europe 2019 - https://rebrand.ly/hackathon-react-europe-2019
+- 1st place at Wild Fest 2019 - https://rebrand.ly/hackathon-wild-fest-2019
+- 3rd place at Techstars Startup Weekend Orleans 2018 - https://rebrand.ly/techstars-startup-weekend-orleans-2018
 
 ### 🎙 Talks:
 - La Grande Ecole du Numérique : Success Stories - https://rebrand.ly/gen-success-stories
@@ -17,14 +19,8 @@
 - Découvrir Websocket avec un clone de WhatsApp en React (FR) - https://rebrand.ly/atelier-websockets-whatsapp-clone
 - Learn the basics of React unit testing (EN) - https://rebrand.ly/workshop-react-testing
 
-### 🏆 Hackathons
-- 1st place at the React Europe 2019 - https://rebrand.ly/hackathon-react-europe-2019
-- 1st place at Wild Fest 2019 - https://rebrand.ly/hackathon-wild-fest-2019
-- 3rd place at Techstars Startup Weekend Orleans 2018 - https://rebrand.ly/techstars-startup-weekend-orleans-2018
-
 ### 📌 Links
 - LinkedIn - https://www.linkedin.com/in/paulcailly/
-- DEV Community - https://dev.to/pcailly 
 
 ### 💡 What I know
 
