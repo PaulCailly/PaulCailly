@@ -4,6 +4,7 @@
 
 ### 🏆 Hackathons
 - Innovation Award at the Google x Mistral GenAI 2024 - https://rebrand.ly/google-mistral-genai
+- 1st place at Deezer internal GenAI hackathon 2023
 - 1st place at the React Europe 2019 - https://rebrand.ly/hackathon-react-europe-2019
 - 1st place at Wild Fest 2019 - https://rebrand.ly/hackathon-wild-fest-2019
 - 3rd place at Techstars Startup Weekend Orleans 2018 - https://rebrand.ly/techstars-startup-weekend-orleans-2018
